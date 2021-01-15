@@ -12,6 +12,10 @@ sites:
     url: https://www.tingelmar.com/
   - name: "Business API"
     url: "https://www.tingelmar.com/com/app/api.php?piid=LOC197190001&opts=GQ&html=1&prm=1&rel=1&subs=1&id=5fc525278fc65&action=gmpiid2"
+  - name: "Video API"
+    url: "https://video.bambus.tech/api/organization/ping"
+  - name: "Booking API"
+    url: "https://booking.bambus.tech/api/organization/ping"
     
 assignees:
   - i5o
@@ -19,10 +23,9 @@ assignees:
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  cname: status.bambus.tech
+  cname: status.tingelmar.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Sites Uptime
+  name: Tingelmar
   navbar:
     - title: Status
       href: /
