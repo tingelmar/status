@@ -9,7 +9,7 @@ sites:
   - name: "BuscoInfo"
     url: https://buscoinfo.com.py/
   - name: "Tingelmar"
-    url: https://tingelmar.com/
+    url: https://www.tingelmar.com/
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
