@@ -10,13 +10,19 @@ sites:
     url: https://buscoinfo.com.py/
   - name: "Tingelmar"
     url: https://www.tingelmar.com/
+  - name: "Business API"
+    url: "https://www.tingelmar.com/com/app/api.php?piid=LOC197190001&opts=GQ&html=1&prm=1&rel=1&subs=1&id=5fc525278fc65&action=gmpiid2"
+    
+assignees:
+  - i5o
+  - Rondeus
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   cname: status.bambus.tech
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Sites Uptime
   navbar:
     - title: Status
       href: /
