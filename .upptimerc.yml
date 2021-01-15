@@ -6,6 +6,10 @@ repo: status # Your GitHub repository name
 sites:
   - name: "1122"
     url: https://1122.com.uy/
+  - name: "BuscoInfo"
+    url: https://buscoinfo.com.py/
+  - name: "Tingelmar"
+    url: https://tingelmar.com/
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
