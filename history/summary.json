@@ -4,17 +4,17 @@
     "url": "https://1122.com.uy/",
     "icon": "https://favicons.githubusercontent.com/1122.com.uy",
     "slug": "1122",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2544,
-    "timeDay": 1813,
-    "timeWeek": 2037,
-    "timeMonth": 2544,
-    "timeYear": 2544,
+    "time": 3213,
+    "timeDay": 11210,
+    "timeWeek": 4359,
+    "timeMonth": 3213,
+    "timeYear": 3213,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "https://buscoinfo.com.py/",
     "icon": "https://favicons.githubusercontent.com/buscoinfo.com.py",
     "slug": "busco-info",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3688,
-    "timeDay": 3491,
-    "timeWeek": 3474,
-    "timeMonth": 3688,
-    "timeYear": 3688,
+    "time": 3912,
+    "timeDay": 6385,
+    "timeWeek": 4119,
+    "timeMonth": 3912,
+    "timeYear": 3912,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://favicons.githubusercontent.com/video.bambus.tech",
     "slug": "video-api",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "95.57%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "99.70%",
+    "uptimeDay": "94.89%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 842,
     "timeDay": 899,
     "timeWeek": 870,
     "timeMonth": 842,
     "timeYear": 842,
     "dailyMinutesDown": {
-      "2021-02-01": 64
+      "2021-02-01": 74
     }
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/booking.bambus.tech",
     "slug": "booking-api",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "95.62%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "99.70%",
+    "uptimeDay": "94.94%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 1146,
     "timeDay": 3680,
     "timeWeek": 1632,
     "timeMonth": 1146,
     "timeYear": 1146,
     "dailyMinutesDown": {
-      "2021-02-01": 63
+      "2021-02-01": 73
     }
   }
 ]
