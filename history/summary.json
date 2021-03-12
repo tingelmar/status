@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2469,
-    "timeDay": 1375,
-    "timeWeek": 1938,
-    "timeMonth": 2101,
-    "timeYear": 2469,
+    "time": 2449,
+    "timeDay": 1123,
+    "timeWeek": 1912,
+    "timeMonth": 2099,
+    "timeYear": 2449,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3732,
-    "timeDay": 3378,
-    "timeWeek": 3526,
-    "timeMonth": 3610,
-    "timeYear": 3732,
+    "time": 3720,
+    "timeDay": 2933,
+    "timeWeek": 3439,
+    "timeMonth": 3605,
+    "timeYear": 3720,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1136,
-    "timeDay": 1075,
-    "timeWeek": 1018,
+    "time": 1131,
+    "timeDay": 860,
+    "timeWeek": 984,
     "timeMonth": 1030,
-    "timeYear": 1136,
+    "timeYear": 1131,
     "dailyMinutesDown": {}
   },
   {
@@ -65,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 238,
-    "timeWeek": 231,
+    "timeDay": 201,
+    "timeWeek": 225,
     "timeMonth": 240,
     "timeYear": 242,
     "dailyMinutesDown": {}
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 844,
-    "timeDay": 870,
-    "timeWeek": 858,
-    "timeMonth": 862,
-    "timeYear": 844,
+    "time": 842,
+    "timeDay": 716,
+    "timeWeek": 831,
+    "timeMonth": 860,
+    "timeYear": 842,
     "dailyMinutesDown": {
       "2021-02-01": 89
     }
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 936,
-    "timeDay": 851,
-    "timeWeek": 825,
+    "time": 932,
+    "timeDay": 714,
+    "timeWeek": 805,
     "timeMonth": 835,
-    "timeYear": 936,
+    "timeYear": 932,
     "dailyMinutesDown": {
       "2021-02-01": 88
     }
