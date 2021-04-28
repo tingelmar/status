@@ -4,19 +4,19 @@
     "url": "https://1122.com.uy/",
     "icon": "https://favicons.githubusercontent.com/1122.com.uy",
     "slug": "1122",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2414,
-    "timeDay": 9340,
-    "timeWeek": 3357,
-    "timeMonth": 2350,
-    "timeYear": 2414,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2407,
+    "timeDay": 6749,
+    "timeWeek": 3158,
+    "timeMonth": 2328,
+    "timeYear": 2407,
     "dailyMinutesDown": {
-      "2021-04-28": 0
+      "2021-04-28": 8
     }
   },
   {
