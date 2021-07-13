@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2084,
-    "timeDay": 1388,
-    "timeWeek": 1258,
+    "time": 2081,
+    "timeDay": 1528,
+    "timeWeek": 1383,
     "timeMonth": 1361,
-    "timeYear": 2084,
+    "timeYear": 2081,
     "dailyMinutesDown": {
       "2021-05-04": 29,
       "2021-05-01": 14,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3516,
-    "timeDay": 5445,
-    "timeWeek": 3245,
-    "timeMonth": 3400,
-    "timeYear": 3516,
+    "time": 3515,
+    "timeDay": 3261,
+    "timeWeek": 3345,
+    "timeMonth": 3391,
+    "timeYear": 3515,
     "dailyMinutesDown": {}
   },
   {
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1098,
-    "timeDay": 1120,
-    "timeWeek": 1011,
-    "timeMonth": 1061,
+    "timeDay": 1193,
+    "timeWeek": 1059,
+    "timeMonth": 1064,
     "timeYear": 1098,
     "dailyMinutesDown": {}
   },
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 249,
-    "timeDay": 237,
-    "timeWeek": 234,
-    "timeMonth": 250,
+    "timeDay": 269,
+    "timeWeek": 243,
+    "timeMonth": 249,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2021-04-22": 17
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 860,
-    "timeDay": 814,
-    "timeWeek": 825,
+    "time": 861,
+    "timeDay": 935,
+    "timeWeek": 859,
     "timeMonth": 867,
-    "timeYear": 860,
+    "timeYear": 861,
     "dailyMinutesDown": {
       "2021-02-01": 89
     }
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 878,
-    "timeDay": 784,
-    "timeWeek": 788,
-    "timeMonth": 860,
-    "timeYear": 878,
+    "time": 879,
+    "timeDay": 929,
+    "timeWeek": 828,
+    "timeMonth": 859,
+    "timeYear": 879,
     "dailyMinutesDown": {
       "2021-02-01": 88
     }
