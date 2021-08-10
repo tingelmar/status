@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 1987,
-    "timeDay": 1493,
-    "timeWeek": 1350,
-    "timeMonth": 1385,
-    "timeYear": 1987,
+    "time": 1986,
+    "timeDay": 1714,
+    "timeWeek": 1376,
+    "timeMonth": 1402,
+    "timeYear": 1986,
     "dailyMinutesDown": {
       "2021-07-21": 14,
       "2021-07-19": 18,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3498,
-    "timeDay": 3518,
-    "timeWeek": 3275,
-    "timeMonth": 3416,
-    "timeYear": 3498,
+    "time": 3496,
+    "timeDay": 2953,
+    "timeWeek": 3177,
+    "timeMonth": 3435,
+    "timeYear": 3496,
     "dailyMinutesDown": {}
   },
   {
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1091,
-    "timeDay": 1181,
-    "timeWeek": 1026,
-    "timeMonth": 1044,
-    "timeYear": 1091,
+    "time": 1090,
+    "timeDay": 907,
+    "timeWeek": 987,
+    "timeMonth": 1047,
+    "timeYear": 1090,
     "dailyMinutesDown": {}
   },
   {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 250,
-    "timeDay": 272,
-    "timeWeek": 249,
+    "time": 249,
+    "timeDay": 222,
+    "timeWeek": 242,
     "timeMonth": 251,
-    "timeYear": 250,
+    "timeYear": 249,
     "dailyMinutesDown": {
       "2021-04-22": 17
     }
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 861,
-    "timeDay": 1010,
-    "timeWeek": 850,
-    "timeMonth": 862,
+    "timeDay": 759,
+    "timeWeek": 819,
+    "timeMonth": 864,
     "timeYear": 861,
     "dailyMinutesDown": {
       "2021-02-01": 89
@@ -111,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 877,
-    "timeDay": 990,
-    "timeWeek": 846,
-    "timeMonth": 864,
+    "timeDay": 769,
+    "timeWeek": 821,
+    "timeMonth": 866,
     "timeYear": 877,
     "dailyMinutesDown": {
       "2021-02-01": 88
